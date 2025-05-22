@@ -1,8 +1,8 @@
 # Advanced_Java_Programs
 
- **Name**: Prajwal 
-**USN**: 4AL22CS102 
-**Sem/Section**: VI/B  
+ **Name**: Prajwal                                     
+**USN**: 4AL22CS102                                        
+**Sem/Section**: VI/B                               
 **Total Programs**: 28    
 
 ---
