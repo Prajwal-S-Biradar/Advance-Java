@@ -115,19 +115,19 @@ function generateRandomString().<br>
 
 4a. Basic hello program of Swing displaying the message Hello! VI B , Welcome to Swing
 Programming in Blue color plain font with font size of 32 using Jframe and Jlabel.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp4-Swings/4a_HelloSwing.png)<br>
 
 ---
 4b. Develop a Swing program in Java to display a message “Srilanka is pressed” or “India is
 pressed” depending upon the Jbutton either Srilanka or India  pressed by implementing the
 event handling mechanism with addActionListener( ).<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4b_CountryButtonDemo.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp4-Swings/4b_CountryButtonDemo.png)<br>
 
 ---
 4c. Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp4-Swings/4c_ImageButtonDemo.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp4-Swings/4c_ImageButtonDemo.png)<br>
 
 ---
 **5. Swings Examples**<br>
@@ -135,20 +135,20 @@ pressed by implementing the event handling mechanism with addActionListener( ).<
 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display them on console whenever the countries are selected on the list.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5a_CountryListDemo.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp5-Swings/5a_CountryListDemo.png)<br>
 
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5b_ColorTabbedPaneDemo.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp5-Swings/5b_ColorTabbedPaneDemo.png)<br>
 
 5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display the capital of the countries on console whenever the countries are selected on the list.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5c_CountryCapitalList.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp5-Swings/5c_CountryCapitalList.png)<br>
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp5-Swings/5d_ColorTabbedPane.png)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp5-Swings/5d_ColorTabbedPane.png)<br>
 
 ---
 
@@ -156,15 +156,14 @@ display the concerned color whenever the specific tab is selected in the Pan.<br
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.<br>
-[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet1.jpeg)<br>
-[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet2.png)<br>
+[Output Screenshot1](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet1.jpeg)<br>
+[Output Screenshot2](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet2.png)<br>
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
-[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet1.png)<br>
-[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet2.png)<br>
+[Output Screenshot1](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.png)<br>
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.<br>
-[Output Screenshot](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp6-Servlets/PrimeServlet/6c_PrimeServlet.jpeg)<br>
+[Output Screenshot](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp6-Servlets/PrimeServlet/6c_PrimeServlet.jpeg)<br>
 
 ---
 
@@ -173,16 +172,16 @@ procedure.<br>
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.<br>
-[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_1.png)<br>
-[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_2.png)<br>
-[Output Screenshot3](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_3.png)<br>
-[Output Screenshot4](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_4.png)<br>
+[Output Screenshot1](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_1.png)<br>
+[Output Screenshot2](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_2.png)<br>
+[Output Screenshot3](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_3.png)<br>
+[Output Screenshot4](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPSessionManagement/7a_Session_Management_4.png)<br>
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list.<br>
-[Output Screenshot1](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_1.png)<br>
-[Output Screenshot2](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_2.png)<br>
-[Output Screenshot3](https://github.com/raghavendrapkarjagi/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_3.png)<br>
+[Output Screenshot1](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_1.png)<br>
+[Output Screenshot2](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_2.png)<br>
+[Output Screenshot3](https://github.com/Prajwal-S-Biradar/Advance-Java/blob/main/Exp7-JSPCookieManagement/7b_setCookie_3.png)<br>
 
 ---
 
